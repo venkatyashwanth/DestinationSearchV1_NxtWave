@@ -1,0 +1,23 @@
+:root{
+    --fontvar1: "Roboto", sans-serif;
+    --fontvar2: "Open Sans", sans-serif; 
+
+    --lightclr1: #f1f5f9;
+    --darkClr1: #252627;
+    --darkClr2: #0f172a;
+    --darkClr2: #000000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}

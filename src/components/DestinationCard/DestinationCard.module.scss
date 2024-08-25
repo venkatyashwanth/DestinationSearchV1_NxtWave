@@ -1,0 +1,16 @@
+.destinationCard{
+    .imageWrapper{
+        width: 100%;    
+        img{
+            width: 100%;
+        }   
+    }
+    .destinationName{
+        margin-top: 1.4rem;
+        font-family: var(--fontvar2);
+        font-weight: 600;
+        font-size: 1.4rem;
+        line-height: 1.8rem;
+        color: var(--darkClr2);
+    }
+}
